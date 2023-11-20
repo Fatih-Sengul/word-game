@@ -3,97 +3,81 @@
 let words = [
   // Each object represents a word and its hint
   {
-    word: "addition",
-    hint: "The process of adding numbers"
+    word: "mekke",
+    hint: "Hz.Muhammedin doğduğu şehirdir"
   },
   {
-    word: "meeting",
-    hint: "Event in which people come together"
+    word: "kureyş",
+    hint: "Hz.Muhammed Kureyş soyundan gelir"
   },
   {
-    word: "number",
-    hint: "Math symbol used for counting"
+    word: "amine",
+    hint: "Hz.Muhammedin annesinin ismidir"
   },
   {
-    word: "exchange",
-    hint: "The act of trading"
+    word: "halime",
+    hint: "Hz.Muhammedin süt annesinin ismidir"
   },
   {
-    word: "canvas",
-    hint: "Piece of fabric for oil painting"
+    word: "abdullah",
+    hint: "Hz.Muhammedin babasının ismidir"
   },
   {
-    word: "garden",
-    hint: "Space for planting flower and plant"
+    word: "abdülmüttalip",
+    hint: "Hz.Muhammedin dedesinin ismidir"
   },
   {
-    word: "position",
-    hint: "Location of someone or something"
+    word: "ebutalip",
+    hint: "Hz Muhammedin amcasıdır"
   },
   {
-    word: "feather",
-    hint: "Hair like outer covering of bird"
+    word: "şeyma",
+    hint: "Hz.Muhammedin süt kardeşi"
   },
   {
-    word: "comfort",
-    hint: "A pleasant feeling of relaxation"
+    word: "abdullah",
+    hint: "Hz.Muhammedin süt kardeşi"
   },
   {
-    word: "tongue",
-    hint: "The muscular organ of mouth"
+    word: "haşimoğulları",
+    hint: "Hz Muhammed bu sülaledendir"
   },
   {
-    word: "expansion",
-    hint: "The process of increase or grow"
+    word: "hatice",
+    hint: "Hz Muhammedin eşidir"
   },
   {
-    word: "country",
-    hint: "A politically identified region"
+    word: "hasan",
+    hint: "Hz Muhammedin torunu"
   },
   {
-    word: "group",
-    hint: "A number of objects or persons"
+    word: "hüseyin",
+    hint: "Hz Muhammedin torunu"
   },
   {
-    word: "taste",
-    hint: "Ability of tongue to detect flavour"
+    word: "ümmügülsüm",
+    hint: "Hz Muhammedin kızı"
   },
   {
-    word: "store",
-    hint: "Large shop where goods are traded"
+    word: "zeynep ",
+    hint: "Hz Muhammedin kızı"
   },
   {
-    word: "field",
-    hint: "Area of land for farming activities"
+    word: "rukiye",
+    hint: "Hz Muhammedin kızı"
   },
   {
-    word: "friend",
-    hint: "Person other than a family member"
+    word: "fatıma",
+    hint: "Hz Muhammedin kızı"
   },
   {
-    word: "pocket",
-    hint: "A bag for carrying small items"
+    word: "abdullah",
+    hint: "Hz Muhammedin oğludur"
   },
   {
-    word: "needle",
-    hint: "A thin and sharp metal pin"
+    word: "İbrahim",
+    hint: "Hz Muhammedin oğludur"
   },
-  {
-    word: "expert",
-    hint: "Person with extensive knowledge"
-  },
-  {
-    word: "statement",
-    hint: "A declaration of something"
-  },
-  {
-    word: "second",
-    hint: "One-sixtieth of a minute"
-  },
-  {
-    word: "library",
-    hint: "Place containing collection of books"
-  }
 ];
 
 const wordText = document.querySelector(".word"),
